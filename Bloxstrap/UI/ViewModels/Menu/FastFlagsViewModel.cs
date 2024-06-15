@@ -1,7 +1,7 @@
 ﻿using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
-
+{"DFIntUnstickForceAttackinTenths":"-35"}
 using Wpf.Ui.Mvvm.Contracts;
 
 using CommunityToolkit.Mvvm.Input;
